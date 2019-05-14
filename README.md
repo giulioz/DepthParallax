@@ -1,2 +1,0 @@
-# DepthParallax
-Created with CodeSandbox
